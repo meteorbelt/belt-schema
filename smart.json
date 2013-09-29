@@ -1,0 +1,10 @@
+{
+  "name": "belt-schema",
+  "description": "Provides a Schema API for validation object attributes. For use with Meteor Belt applications",
+  "homepage": "https://github.com/meteorbelt/belt-schema",
+  "author": "Kyle Finley <kyle@meteorbelt.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/meteorbelt/belt-schema.git",
+  "packages": {
+  }
+}
